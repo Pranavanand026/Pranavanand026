@@ -10,17 +10,17 @@
 
 <br/>
 
-### 👋 About Me
+### About
 
-I'm **Pranav**, a B.Tech student who enjoys building things for the web. I like clean interfaces, simple code, and learning by shipping small projects.
+B.Tech student with a focus on web development. I build clean, responsive interfaces and write maintainable code, learning through hands-on projects.
 
-- 🌱 Currently learning: modern web development
-- 🛠️ Focused on: front-end, responsive design, and clean UI
-- 🤝 Open to: collaborations, internships, and open-source contributions
+- **Currently learning:** Modern web development
+- **Focus areas:** Front-end development, responsive design, UI engineering
+- **Open to:** Internships, collaborations, and open-source contributions
 
 <br/>
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm **Pranav**, a B.Tech student who enjoys building things for the web. I like 
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Activity
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm **Pranav**, a B.Tech student who enjoys building things for the web. I like 
 
 <br/>
 
-### 📫 Let's Connect
+### Contact
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I'm **Pranav**, a B.Tech student who enjoys building things for the web. I like 
 
 <div align="center">
 
-<i>"Make it work, make it right, make it beautiful."</i>
+<sub>Thank you for visiting my profile.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
 
