@@ -63,14 +63,22 @@ const pranav = {
 
 ## `~/activity`
 
+<!-- IMPORTANT: replace pranavanand21 below with your exact GitHub username (case-sensitive) if it is different. -->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavanand21&show_icons=true&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&hide_border=false&border_radius=12" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand21&layout=compact&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&hide_border=false&border_radius=12" alt="top languages" />
+<a href="https://github.com/pranavanand21">
+  <img src="https://ghchart.rshah.org/4f46e5/pranavanand21" alt="GitHub contribution graph" width="95%" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=pranavanand21&theme=radical&border=4f46e5&background=0f172a&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&hide_border=false&border_radius=12" alt="streak" />
+<a href="https://github.com/pranavanand21">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavanand21&show_icons=true&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
+</a>
+<a href="https://github.com/pranavanand21?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand21&layout=compact&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="Top languages" />
+</a>
 
 </div>
 
