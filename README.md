@@ -38,25 +38,32 @@ B.Tech student with a focus on web development. I build clean, responsive interf
 
 ### Projects
 
-<!-- Replace the placeholder text, links and repo names below with your own projects. Duplicate a row to add more. -->
+<!--
+  To add a project: copy one block below, then edit the name, description, tech and links.
+  Remove any link you do not have (for example, Live Demo).
+-->
 
-| Project | Description | Tech | Links |
-| :-- | :-- | :-- | :-- |
-| **Project One** | Short one-line description of what it does and the problem it solves. | HTML, CSS, JavaScript | [Live Demo](https://your-demo-link.com) / [Source](https://github.com/YOUR_USERNAME/project-one) |
-| **Project Two** | Short one-line description of what it does and the problem it solves. | React, Node.js | [Live Demo](https://your-demo-link.com) / [Source](https://github.com/YOUR_USERNAME/project-two) |
-| **Project Three** | Short one-line description of what it does and the problem it solves. | JavaScript, API | [Live Demo](https://your-demo-link.com) / [Source](https://github.com/YOUR_USERNAME/project-three) |
+**[Project One](https://github.com/pranavanand21/project-one)**
+<br/>
+Short description of what the project does and the problem it solves.
+<br/>
+<sub>HTML &middot; CSS &middot; JavaScript</sub>
 
-<div align="center">
+<br/>
 
-<!-- Optional: pinned-style cards. Replace YOUR_USERNAME and the repo names. -->
-<a href="https://github.com/YOUR_USERNAME/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Project One" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Project Two" />
-</a>
+**[Project Two](https://github.com/pranavanand21/project-two)**
+<br/>
+Short description of what the project does and the problem it solves.
+<br/>
+<sub>React &middot; Node.js</sub>
 
-</div>
+<br/>
+
+**[Project Three](https://github.com/pranavanand21/project-three)**
+<br/>
+Short description of what the project does and the problem it solves.
+<br/>
+<sub>JavaScript &middot; REST API</sub>
 
 <br/>
 
