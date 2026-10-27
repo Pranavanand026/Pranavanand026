@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/pranavanand21/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0f172a" alt="LinkedIn" /></a>
 <a href="mailto:pranavanand015@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0f172a" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=pranavanand21&label=PROFILE%20VIEWS&color=4f46e5&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Pranavanand026&label=PROFILE%20VIEWS&color=4f46e5&style=for-the-badge" alt="views" />
 
 </div>
 
@@ -55,7 +55,7 @@ const pranav = {
 | :--- | :--- | :--- |
 | Short description of what this project does and the problem it solves. | Short description of what this project does and the problem it solves. | Short description of what this project does and the problem it solves. |
 | `HTML` `CSS` `JavaScript` | `React` `Node.js` | `JavaScript` `REST API` |
-| [View Repository](https://github.com/pranavanand21/project-one) | [View Repository](https://github.com/pranavanand21/project-two) | [View Repository](https://github.com/pranavanand21/project-three) |
+| [View Repository](https://github.com/Pranavanand026/project-one) | [View Repository](https://github.com/Pranavanand026/project-two) | [View Repository](https://github.com/Pranavanand026/project-three) |
 
 </div>
 
@@ -63,21 +63,20 @@ const pranav = {
 
 ## `~/activity`
 
-<!-- IMPORTANT: replace pranavanand21 below with your exact GitHub username (case-sensitive) if it is different. -->
 
 <div align="center">
 
-<a href="https://github.com/pranavanand21">
-  <img src="https://ghchart.rshah.org/4f46e5/pranavanand21" alt="GitHub contribution graph" width="95%" />
+<a href="https://github.com/Pranavanand026">
+  <img src="https://ghchart.rshah.org/4f46e5/Pranavanand026" alt="GitHub contribution graph" width="95%" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/pranavanand21">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavanand21&show_icons=true&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
+<a href="https://github.com/Pranavanand026">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranavanand026&show_icons=true&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="GitHub stats" />
 </a>
-<a href="https://github.com/pranavanand21?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavanand21&layout=compact&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="Top languages" />
+<a href="https://github.com/Pranavanand026?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavanand026&layout=compact&theme=radical&border_color=4f46e5&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&border_radius=12&cache_seconds=86400" alt="Top languages" />
 </a>
 
 </div>
